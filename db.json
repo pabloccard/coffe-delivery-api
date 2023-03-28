@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+    "_id": "6423183f308c9903e84e9b84",
+    "title": "Expresso Tradicional",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090313490620747988/Image_2.png",
+    "tags": [
+      "tradicional"
+    ],
+    "description": "O tradicional café feito com água quente e grãos moídos",
+    "price": 5.9
+  },
+  {
+    "_id": "642318b0308c9903e84e9b85",
+    "title": "Expresso Americano",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090314387178405949/Coffee.png",
+    "tags": [
+      "tradicional"
+    ],
+    "description": "Expresso diluído, menos intenso que o tradicional",
+    "price": 5.9
+  },
+  {
+    "_id": "642318eb308c9903e84e9b87",
+    "title": "Expresso Cremoso",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090314764074373140/Image_3.png",
+    "tags": [
+      "tradicional"
+    ],
+    "description": "Café expresso tradicional com espuma cremosa",
+    "price": 5.9
+  },
+  {
+    "_id": "6423195d308c9903e84e9b89",
+    "title": "Expresso Gelado",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090315232401961081/Image_4.png",
+    "tags": [
+      "tradicional",
+      "gelado"
+    ],
+    "description": "Bebida preparada com café expresso e cubos de gelo",
+    "price": 5.9
+  },
+  {
+    "_id": "642319ce308c9903e84e9b8d",
+    "title": "Macchiato",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090315592470372533/Image_5.png",
+    "tags": [
+      "tradicional",
+      "com leite"
+    ],
+    "description": "Café expresso misturado com um pouco de leite quente e espuma",
+    "price": 5.9
+  },
+  {
+    "_id": "642319fb308c9903e84e9b8f",
+    "title": "Capuccino",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090315950114484349/Image_6.png",
+    "tags": [
+      "tradicional",
+      "com leite"
+    ],
+    "description": "Bebida com canela feita de doses iguais de café, leite e espuma",
+    "price": 5.9
+  },
+  {
+    "_id": "64231a30308c9903e84e9b90",
+    "title": "Latte",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090316141588643890/Image_7.png",
+    "tags": [
+      "tradicional",
+      "com leite"
+    ],
+    "description": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
+    "price": 5.9
+  },
+  {
+    "_id": "64231a5e308c9903e84e9b91",
+    "title": "Café com Leite",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090316372405387385/Image_8.png",
+    "tags": [
+      "tradicional",
+      "com leite"
+    ],
+    "description": "Meio a meio de expresso tradicional com leite vaporizado",
+    "price": 5.9
+  },
+  {
+    "_id": "64231aa0308c9903e84e9b94",
+    "title": "Mocaccino",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090316593566863401/Image_9.png",
+    "tags": [
+      "tradicional",
+      "com leite"
+    ],
+    "description": "Café expresso com calda de chocolate, pouco leite e espuma",
+    "price": 5.9
+  },
+  {
+    "_id": "64231ad7308c9903e84e9b96",
+    "title": "Chocolate Quente",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090316849373266050/Image_10.png",
+    "tags": [
+      "especial",
+      "com leite"
+    ],
+    "description": "Bebida feita com chocolate dissolvido no leite quente e café",
+    "price": 5.9
+  },
+  {
+    "_id": "64231b17308c9903e84e9b98",
+    "title": "Cubano",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090317082119393340/Image_11.png",
+    "tags": [
+      "especial",
+      "alcoólico",
+      "gelado"
+    ],
+    "description": "Drink gelado de café expresso com rum, creme de leite e hortelã",
+    "price": 5.9
+  },
+  {
+    "_id": "64231b47308c9903e84e9b99",
+    "title": "Havaiano",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090317353214017647/Image_12.png",
+    "tags": [
+      "especial"
+    ],
+    "description": "Bebida adocicada preparada com café e leite de coco",
+    "price": 5.9
+  },
+  {
+    "_id": "64231b7b308c9903e84e9b9a",
+    "title": "Irlandês",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090317547301240932/Image_13.png",
+    "tags": [
+      "especial",
+      "alcoólico"
+    ],
+    "description": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
+    "price": 5.9
+  },
+  {
+    "_id": "64231bae308c9903e84e9b9b",
+    "title": "Árabe",
+    "img": "https://cdn.discordapp.com/attachments/1090313417727942709/1090317780517134346/Image_14.png",
+    "tags": [
+      "especial"
+    ],
+    "description": "Bebida preparada com grãos de café árabe e especiarias",
+    "price": 5.9
+  }
+ ]
+}
